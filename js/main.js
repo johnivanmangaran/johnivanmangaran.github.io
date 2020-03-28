@@ -17,8 +17,8 @@ $(document).ready(function(event) {
             0:{
                 items:1
             },
-            575:{
-                items:2
+            576:{
+                items:1
             },
             1000:{
                 items:3
