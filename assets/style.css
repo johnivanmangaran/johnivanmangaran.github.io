@@ -214,10 +214,11 @@ body{
     /*transform: rotate(-90deg);*/
     height: 450px;
     max-width: 100%;
+    width: 85%;
     border-radius: 10px;
     border: 5px solid #fff;
     object-fit: cover;
-    /*object-position: top;*/
+    object-position: top;
     animation: fadeIn 1s;
 }
 
