@@ -1,7 +1,6 @@
 (function($) {
     'use strict';
 
-
 $(document).ready(function(event) {
     $('.owl_projects').owlCarousel({
         loop:false,
@@ -50,10 +49,5 @@ $('.count').each(function () {
         }
     });
 });
-
-
-
-
-
 
 })(jQuery);
